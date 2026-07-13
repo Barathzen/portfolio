@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//home/barath/.claude/plugins/cache/ui-ux-pro-max-skill/ui-ux-pro-max/2.6.2/.claude/skills/ui-ux-pro-max/**)",
+      "Bash(python3 scripts/search.py \"audio autoplay background music toggle control accessibility reduced-motion\" --domain ux -n 10)",
+      "Bash(python3 scripts/search.py \"audio toggle accessibility\" --domain ux -n 10)"
+    ]
+  }
+}
